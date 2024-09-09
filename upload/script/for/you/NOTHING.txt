@@ -1,4 +1,4 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/NOTHINGx555/f5c9747dadcb268f447d5fb67a81eadf/raw/fd2982a609eb59f01bd9d935d3391438b2b27af8/.lua'))()
+loadstring(game:HttpGet('https://gist.githubusercontent.com/NOTHINGx555/f5c9747dadcb268f447d5fb67a81eadf/raw/d80f47332785c6f833ec10a04d44f9a7fa2e0bcd/.lua'))()
 
 
---new styl key
+👍
