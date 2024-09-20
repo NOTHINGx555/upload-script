@@ -1,4 +1,2 @@
-loadstring(game:HttpGet('https://gist.githubusercontent.com/NOTHINGx555/f5c9747dadcb268f447d5fb67a81eadf/raw/d80f47332785c6f833ec10a04d44f9a7fa2e0bcd/.lua'))()
-
-
-👍
+loadstring(game:HttpGet('https://gist.githubusercontent.com/NOTHINGx555/67b36322d4e018d88d9abf865b720bb1/raw/df24b77f7d3ae26b81a11a4a04973c2956672d58/.lua'))()
+--fix working :D
